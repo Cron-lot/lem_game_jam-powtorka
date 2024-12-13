@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ba1w4f4u1xwap"
+path="res://.godot/imported/ambient szkolenie.wav-2c2de8537e0a7611c087dcd499fd426d.sample"
+
+[deps]
+
+source_file="res://asstes/Sounds/ambient szkolenie.wav"
+dest_files=["res://.godot/imported/ambient szkolenie.wav-2c2de8537e0a7611c087dcd499fd426d.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
